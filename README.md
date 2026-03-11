@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="D:\Projects\omnigen-&-security-hub (1)" />
+<img width="1200" height="475" src="D:\Projects\omnigen-&-security-hub (1)" />
 </div>
 
 # Run and deploy your AI Studio app
