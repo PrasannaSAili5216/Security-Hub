@@ -1,0 +1,8 @@
+{
+  "name": "Remix:  Security Hub",
+  "description": "A modern, multi-modal generation and security platform featuring a clean, light-themed interface for text, image, audio, and video synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
