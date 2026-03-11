@@ -1,4 +1,4 @@
-![Home Page Screenshot](./Home Page.png)
+![Home Page Screenshot](./Home_Page.png)
 
 # Run and deploy your AI Studio app
 
